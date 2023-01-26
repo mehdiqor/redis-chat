@@ -1,1 +1,1 @@
-# redis-chat
+# chat with socket.io and redis in nodejs
